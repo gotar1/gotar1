@@ -1,5 +1,5 @@
 # 👤 ELtahir Gotar
-# 📫 How to reach me: eltahir.g@gmail.com
+# 📫 eltahir.g@gmail.com
 # 🇺🇸 San Antonio, Texas, United States
 
 ### [Linkedin Profile](https://linkedin.com/in/eltahirgotar)
