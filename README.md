@@ -14,7 +14,7 @@
 *****
 *****
 
-### Learned TECHNOLOGY
+### Quickly Learns New TECHNOLOGY
 
 > * Scikit-Learn / Machine Learning 
 > * Visualizations / Plotly / MatPlotLib
