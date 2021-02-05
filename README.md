@@ -77,10 +77,10 @@
 *****
 
 ### Data Analytics and Visualization Bootcamp, June 2020 – December 2020
-#### University of Texas, San Antonio, San Antonio, TX, USA      
+#### University of Texas, San Antonio (UTSA), San Antonio, TX, USA      
 > ●	**Data Analytics** — A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning.
  
-### B.S. in Chemical Engineering/Fuel Science Option
+### B.S. in Chemical Engineering/Fuel Science Option, 2010
 #### The Pennsylvania State University, University Park, PA, USA  
 
 
