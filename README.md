@@ -69,6 +69,13 @@
 > * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
 > * Used pgAdmin 4 and PostgresSQL to build and store our DataBase.
 
+## [Data Analysis and Statistic  ](https://github.com/AnalytrixCode/PROJECT-1-) — The Effectiveness of background check laws in Reducing Guns Related Deaths. 
+
+> * Guns control is a very sensitive issue in America and had been throughout our history.
+> * We looked at the idea that more gun laws reduces guns related deaths.
+> * We used the states of Texas and California as a case study
+> * Overall our study indicate that increasing guns laws slightly correlate with decreasing gun related deaths. 
+
 
 *****
 *****
