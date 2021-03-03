@@ -57,7 +57,7 @@
 > * Each page contain visualizations and their corresponding explanations.
 > * Deployed to GitHub Pages.
 
-## [Earthquake Map](https://gotar1.github.io/leaflet-challenge/) — Leaflet Map for Earthquake Data from United States Geological Survey(USGS).
+## [Earthquake Map](https://gotar1.github.io/Earthquake-map/) — Leaflet Map for Earthquake Data from United States Geological Survey(USGS).
 
 > * Created an earthquake map using Leaflet and earthquakes data from USGS website.
 > * Created three map layers (dark, outdoor and satallite) for great visualization experience.
