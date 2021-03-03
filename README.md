@@ -51,7 +51,7 @@
 > * Created our own data and Build our own database. Build a Flask App and Launched the app to Heroku.
 > * Model is based on physical characteristics of celebrities from  IMDb "100 Most Beautiful People on the Planet" & "Ugly Celebrities" lists.
 
-## [Web Design](https://gotar1.github.io/Web-Design-Challenge) — Visualization Dashboard Website Using Plots we've Created in a Past Project.
+## [Web Design](https://gotar1.github.io/World-Weather-Analysis/) — Visualization Dashboard Website Using Plots we've Created in a Past Project.
 
 > * Built individual pages for each plot and a means by which we can navigate between them.
 > * Each page contain visualizations and their corresponding explanations.
