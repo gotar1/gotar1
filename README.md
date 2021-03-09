@@ -53,7 +53,7 @@
  
 ## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy-) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
 
-> * Built a postgresSQL DataBase for the  Lord of The Ring movies.
+> * Built a postgresSQL DataBase for the  Lord of The Rings movies.
 > * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
 > * Used pgAdmin 4 and PostgresSQL to build and store our DataBase.
  
