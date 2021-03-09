@@ -50,6 +50,19 @@
 > * Built front-end user interface with Flask for user to interact with a predictive machine learning model.
 > * Created our own data and Build our own database. Build a Flask App and Launched the app to Heroku.
 > * Model is based on physical characteristics of celebrities from  IMDb "100 Most Beautiful People on the Planet" & "Ugly Celebrities" lists.
+ 
+## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy-) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
+
+> * Built a postgresSQL DataBase for the  Lord of The Ring movies.
+> * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
+> * Used pgAdmin 4 and PostgresSQL to build and store our DataBase.
+ 
+## [Data Analysis and Statistic  ](https://github.com/gotar1/Gun-Laws-Analysis) — The Effectiveness of Background Check Laws in Reducing Gun Related Deaths. 
+
+> * Guns control is a very sensitive issue in America and has been throughout our history.
+> * We looked at the idea that more gun laws reduces guns related deaths.
+> * We used the states of Texas and California as a case study
+> * Overall our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
 
 ## [Web Design](https://gotar1.github.io/World-Weather-Analysis/) — Visualization Dashboard Website Using Plots we've Created in a Past Project.
 
@@ -62,20 +75,6 @@
 > * Created an earthquake map using Leaflet and earthquakes data from USGS website.
 > * Created three map layers (dark, outdoor and satallite) for great visualization experience.
 > * Plot a second data set on the map to illustrate relationship between tectonic plates and seismic activity.
-
-## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy-) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
-
-> * Built a postgresSQL DataBase for the  Lord of The Ring movies.
-> * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
-> * Used pgAdmin 4 and PostgresSQL to build and store our DataBase.
-
-## [Data Analysis and Statistic  ](https://github.com/gotar1/Gun-Laws-Analysis) — The Effectiveness of Background Check Laws in Reducing Gun Related Deaths. 
-
-> * Guns control is a very sensitive issue in America and has been throughout our history.
-> * We looked at the idea that more gun laws reduces guns related deaths.
-> * We used the states of Texas and California as a case study
-> * Overall our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
-
 
 *****
 *****
