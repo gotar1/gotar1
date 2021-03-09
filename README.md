@@ -63,7 +63,7 @@
 > * Created three map layers (dark, outdoor and satallite) for great visualization experience.
 > * Plot a second data set on the map to illustrate relationship between tectonic plates and seismic activity.
 
-## [Data Engineering Sqlalchemy ](https://github.com/lazambrano/ETL_Project) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
+## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy-) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
 
 > * Built a postgresSQL DataBase for the  Lord of The Ring movies.
 > * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
