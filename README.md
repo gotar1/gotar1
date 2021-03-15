@@ -51,7 +51,7 @@
 > * Created our own data and Build our own database. Build a Flask App and Launched the app to Heroku.
 > * Model is based on physical characteristics of celebrities from  IMDb "100 Most Beautiful People on the Planet" & "Ugly Celebrities" lists.
  
-## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy-) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
+## [Data Engineering Sqlalchemy ](https://github.com/gotar1/Data-Engineering-Sqlalchemy) — ETL Project About The LOTR Movies, Characters, Chapters and Dialogues. 
 
 > * Built a postgresSQL DataBase for the  Lord of The Rings movies.
 > * Data extracted from Kaggle and Transformed using Python, Jupyter Notebook and Pandas.
